@@ -30,13 +30,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1) Begining : 
 
-<img alt='Begining of Project'  src="images/begining.png" style = "width : 800px ; height : 400px ">
+<img alt='Begining of Project'  src="images/begining.PNG" style = "width : 800px ; height : 400px ">
 
 2) BFS : 
 
-<img alt='BFS'  src="images/bfs.png" style = "width : 800px ; height : 400px ">
+<img alt='BFS'  src="images/bfs.PNG" style = "width : 800px ; height : 400px ">
 
 3) DFS:
-<img alt='DFS'  src="images/dfs.png" style = "width : 800px ; height : 400px ">
+<img alt='DFS'  src="images/dfs.PNG" style = "width : 800px ; height : 400px ">
 
 
