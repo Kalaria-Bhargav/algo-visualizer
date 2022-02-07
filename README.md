@@ -39,4 +39,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 3) DFS:
 <img alt='DFS'  src="images/dfs.PNG" style = "width : 800px ; height : 400px ">
 
+4) Path is Not Possible:
+<img alt='Path is Not Possible'  src="images/pathNotPossible.PNG" style = "width : 800px ; height : 400px ">
+
+
 
